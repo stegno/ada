@@ -4,12 +4,5 @@
 "ticker": "FIALA",
 "homepage": "https://bookcoin.app",
 "verification": "6f6016492419f2f452",
-"social":{
-            "twitter_handle": "sstegno",
-            "telegram_handle": "stegno",
-            "youtube_handle": "UCXiGsmf4X1epg8TU_ioKYZw",
-            "linkedin_handle": "",
-            "ada_handle": "$cexplorer"
-        }
-
+"extended": "https://github.com/stegno/ada/blob/main/extended.json"            
 }
